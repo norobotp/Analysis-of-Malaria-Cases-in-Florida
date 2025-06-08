@@ -59,7 +59,7 @@ This analysis was part of a graduate-level data science course project at the Un
 
 ---
 
-## 📁 산출물
+## 📁 결과물
 
 HTML 분석 보고서에는 다음이 포함됩니다:
 
